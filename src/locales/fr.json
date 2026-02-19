@@ -1,0 +1,35 @@
+{
+    "header": {
+        "title": "AssurMyBike",
+        "home": "Accueil",
+        "quote": "Tarif",
+        "claims": "Sinistre"
+    },
+    "home": {
+        "heroTitle": "Roulez libre, on vous couvre.",
+        "heroSubtitle": "Assurance Vélo Électrique Premium pour toute la famille.",
+        "cta": "Simuler mon tarif"
+    },
+    "quote": {
+        "title": "Estimez votre Tarif",
+        "bikeValue": "Valeur du vélo (€)",
+        "purchaseDate": "Date d'achat",
+        "calculate": "Calculer",
+        "monthly": "mois",
+        "year": "an",
+        "subscribe": "Souscrire maintenant"
+    },
+    "subscription": {
+        "title": "Souscription",
+        "step1": "Garanties",
+        "step2": "Infos Personnelles",
+        "step3": "Détails Vélo",
+        "step4": "Documents",
+        "next": "Suivant",
+        "submit": "Finaliser la souscription"
+    },
+    "claims": {
+        "title": "Déclarer un Sinistre",
+        "description": "Nous sommes désolés de cet incident. Veuillez remplir le formulaire ci-dessous."
+    }
+}

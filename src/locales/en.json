@@ -1,0 +1,35 @@
+{
+    "header": {
+        "title": "AssurMyBike",
+        "home": "Home",
+        "quote": "Get a Quote",
+        "claims": "Claims"
+    },
+    "home": {
+        "heroTitle": "Roll Free, We've Got You.",
+        "heroSubtitle": "Premium E-Bike Insurance for the whole family.",
+        "cta": "Simulate your rate"
+    },
+    "quote": {
+        "title": "Estimate your Tariff",
+        "bikeValue": "Bike Value (€)",
+        "purchaseDate": "Purchase Date",
+        "calculate": "Calculate",
+        "monthly": "month",
+        "year": "year",
+        "subscribe": "Subscribe Now"
+    },
+    "subscription": {
+        "title": "Subscription",
+        "step1": "Coverage",
+        "step2": "Personal Info",
+        "step3": "Bike Details",
+        "step4": "Documents",
+        "next": "Next",
+        "submit": "Finalize Subscription"
+    },
+    "claims": {
+        "title": "Declare a Claim",
+        "description": "We are sorry to hear about your incident. Please fill out the form below."
+    }
+}
