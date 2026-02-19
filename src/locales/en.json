@@ -11,13 +11,14 @@
         "cta": "Simulate your rate"
     },
     "quote": {
-        "title": "Estimate your Tariff",
-        "bikeValue": "Bike Value (€)",
-        "purchaseDate": "Purchase Date",
-        "calculate": "Calculate",
+        "title": "Estimate your Rate",
+        "bikeValueLabel": "Bike Value (€)",
+        "purchaseDateLabel": "Purchase Date",
+        "calculateButton": "Calculate Premium",
         "monthly": "month",
         "year": "year",
-        "subscribe": "Subscribe Now"
+        "equivalent": "Equivalent to",
+        "subscribeButton": "Subscribe Now"
     },
     "subscription": {
         "title": "Subscription",

@@ -1,0 +1,43 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e3]:
+  - banner [ref=e4]:
+    - generic [ref=e5]:
+      - link "Logo Assur MyBike" [ref=e6] [cursor=pointer]:
+        - /url: /
+        - img "Logo" [ref=e7]
+        - generic [ref=e8]: Assur
+        - text: MyBike
+      - navigation [ref=e9]:
+        - link "Accueil" [ref=e10] [cursor=pointer]:
+          - /url: /
+        - link "Tarif" [ref=e11] [cursor=pointer]:
+          - /url: /quote
+        - link "Sinistre" [ref=e12] [cursor=pointer]:
+          - /url: /claims
+        - generic [ref=e13]:
+          - button "FR" [ref=e14] [cursor=pointer]
+          - button "EN" [ref=e15] [cursor=pointer]
+  - main [ref=e16]:
+    - generic [ref=e19]:
+      - heading "Roulez libre, on vous couvre." [level=1] [ref=e20]
+      - paragraph [ref=e21]: Assurance Vélo Électrique Premium pour toute la famille.
+      - link "Simuler mon tarif" [ref=e22] [cursor=pointer]:
+        - /url: /quote
+    - generic [ref=e25]:
+      - generic [ref=e26]:
+        - generic [ref=e27]: 🛡️
+        - heading "0€ Franchise" [level=3] [ref=e28]
+        - paragraph [ref=e29]: Pas de mauvaise surprise en cas de pépin. Vous êtes couvert intégralement dès le premier euro.
+      - generic [ref=e30]:
+        - generic [ref=e31]: 🚑
+        - heading "Assistance 24/7" [level=3] [ref=e32]
+        - paragraph [ref=e33]: Une crevaison au sommet ? Nous venons vous chercher, partout en Europe, tout le temps.
+      - generic [ref=e34]:
+        - generic [ref=e35]: 🚲
+        - heading "Vol & Casse" [level=3] [ref=e36]
+        - paragraph [ref=e37]: Votre vélo est remboursé à sa valeur d'achat pendant 2 ans. Roulez l'esprit tranquille.
+  - contentinfo [ref=e38]:
+    - paragraph [ref=e40]: © 2026 AssurMyBike. All rights reserved.
+```

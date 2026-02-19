@@ -11,7 +11,7 @@
  */
 import { useTranslation } from 'react-i18next';
 import { Link } from 'react-router-dom';
-import bikeIcon from '../assets/bike_icon.png';
+import bikeIcon from '../assets/bike_logo.svg';
 
 const Header = () => {
     const { t, i18n } = useTranslation();
@@ -32,7 +32,7 @@ const Header = () => {
         }}>
             <div className="container" style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
                 <Link to="/" style={{ fontSize: '1.5rem', fontWeight: 'bold', color: 'white', display: 'flex', alignItems: 'center', gap: '10px' }}>
-                    <img src={bikeIcon} alt="Logo" style={{ height: '32px' }} />
+                    <img src={bikeIcon} alt="Logo" style={{ height: '40px' }} />
                     <span style={{ color: 'var(--primary-color)' }}>Assur</span>MyBike
                 </Link>
 

@@ -12,12 +12,13 @@
     },
     "quote": {
         "title": "Estimez votre Tarif",
-        "bikeValue": "Valeur du vélo (€)",
-        "purchaseDate": "Date d'achat",
-        "calculate": "Calculer",
+        "bikeValueLabel": "Valeur du vélo (€)",
+        "purchaseDateLabel": "Date d'achat",
+        "calculateButton": "Calculer mon tarif",
         "monthly": "mois",
         "year": "an",
-        "subscribe": "Souscrire maintenant"
+        "equivalent": "Soit",
+        "subscribeButton": "Souscrire maintenant"
     },
     "subscription": {
         "title": "Souscription",
